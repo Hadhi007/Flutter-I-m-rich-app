@@ -12,8 +12,8 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://image.freepik.com/free-photo/northern-light-aurora-borealis-kirkjufell-iceland-kirkjufell-mountains-winter_335224-681.jpg'),
+            image: AssetImage(
+                'images/young-smiling-european-cool-male-holding-skate-blurred-setting-street_181624-40609.jpg'),
           ),
         ),
       ),
